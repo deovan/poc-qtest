@@ -48,3 +48,4 @@ Funcionalidade: UC03.1 - Emissão Consulta e Edição de TFAs - Filtros Listagem
     Então o processo divergente ao editado deve ser exibido na listagem de abertos
     E clico na TAB TFA Concluído
     Entao valido o TFA divergente concluído na linha 1
+    E valido o teste
